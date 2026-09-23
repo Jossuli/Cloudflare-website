@@ -18,4 +18,4 @@ Tämä on Pilvipalvelut-kurssin GitHub Pages -sivusto.
 | Flexbox | Responsiivinen asettelu |
 
 Tämä sivu on kirjoitettu GitHub Flavored Markdownilla.
-Muokataan, jotta päivittyy
+päivitetty kello 16.56
