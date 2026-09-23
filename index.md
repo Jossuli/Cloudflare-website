@@ -1,5 +1,3 @@
-Cloudflare Website
-
 Tämä on Pilvipalvelut-kurssin GitHub Pages -sivusto.
 
 ## Sivuston sisältö
